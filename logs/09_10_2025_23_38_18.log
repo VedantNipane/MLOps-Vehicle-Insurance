@@ -1,3 +1,0 @@
-[ 2025-09-10 23:38:18,517 ] root - DEBUG - This is a debug message.
-[ 2025-09-10 23:38:18,531 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
-[ 2025-09-10 23:38:18,534 ] root - ERROR - Error occurred in python script: [C:\Users\vedan\Desktop\ML Again!\ML Ops Files\MLOps-Vehicle-Insurance\demo.py] at line number [18]: unsupported operand type(s) for +: 'int' and 'str'
